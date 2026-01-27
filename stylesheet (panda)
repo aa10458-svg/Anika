@@ -1,0 +1,28 @@
+p{
+background-color: maroon;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: azure;
+
+}
+
+
+p2{
+
+background-color: maroon;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: azure;
+}
+
+
+h1{
+background-color: maroon;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: azure;
+}
+
+
+body{
+background-color: darkred;
+
+}
+
